@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=240&section=header&text=Gagan&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Frontend%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Gagan  banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=240&section=header&text=Gagan%20Sharma&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Frontend%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Gagan  banner"/>
 </div>
 
-## Gagan
+## Gagan Sharma
 
 **Frontend Developer**
 
