@@ -46,9 +46,9 @@ I design and build fast, expressive interfaces that feel intentional on both des
 
 ## GitHub Signals
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gagannn19&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true" alt="Gagan Kumar Sharma stats"/>
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=gagannn19&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true" alt="Gagan Kumar Sharma stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagannn19&layout=compact&langs_count=8&theme=calm&hide_border=true" alt="Gagan Kumar Sharma top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagannn19&layout=compact&langs_count=8&theme=calm&hide_border=true" alt="Gagan Kumar Sharma top languages"/> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gagannn19&theme=calm&hide_border=true)](https://git.io/streak-stats)
 
