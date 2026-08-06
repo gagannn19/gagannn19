@@ -58,6 +58,6 @@ I design and build fast, expressive interfaces that feel intentional on both des
 
 <div align="center">
 
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://www.linkedin.com/in/gagan-sharma-a833b9333/)</sub>
+[Get in touch](https://www.linkedin.com/in/gagan-sharma-a833b9333/)</sub>
 
 </div>
