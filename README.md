@@ -3,7 +3,7 @@
 </div>
 
 ## Gagan Sharma
-**Frontend Developer**
+**FullStack and AI Developer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=f97316&center=true&vCenter=true&width=640&lines=Designing%20interfaces%20people%20remember;Building%20delightful%2C%20responsive%20products)](https://git.io/typing-svg)
 
